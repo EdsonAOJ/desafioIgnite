@@ -65,10 +65,5 @@ $ http://localhost:3333/api-docs
 
 O próximo passo na aplicação será a implementação do banco de dados **Postgres**, onde serão salvas todas as informações dos usuários.
 
-## Contato
 
-Caso tenha ficado alguma dúvida fique livre para entrar em contato comigo por meio do meu email e linkedin:
-
-* Email: edsonaoj346@gmail.com
-* Linkedin: https://www.linkedin.com/in/edsonaoj-silva/
 
