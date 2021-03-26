@@ -16,7 +16,7 @@ Como instalar o yarn: https://yarnpkg.com/lang/en/docs/install/
 Primeiro clone o projeto na sua máquina por meio do comando:
 
 ~~~git
-$ git clone https://github.com/silvavinicyus/ignite-chapter2-desafio1.git
+$ git clone https://github.com/EdsonAOJ/Desafio-Nodejs-typescript
 ~~~
 
 Depois de clonar o projeto instale as dependências e packages utilizados no projeto por meio do comando. **o comando precisa ser dado na raiz do projeto**:
@@ -69,6 +69,6 @@ O próximo passo na aplicação será a implementação do banco de dados **Post
 
 Caso tenha ficado alguma dúvida fique livre para entrar em contato comigo por meio do meu email e linkedin:
 
-* Email: vinicyus346@gmail.com
-* Linkedin: https://www.linkedin.com/in/vinicyus-silva/
+* Email: edsonaoj346@gmail.com
+* Linkedin: https://www.linkedin.com/in/edsonaoj-silva/
 
